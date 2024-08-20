@@ -22,6 +22,7 @@ const onChange = (event: any ) =>{
     <Input onChange={onChange} placeholder='type in name'/>
     <Button onClick={handleClick}>Add Name</Button>
     </Box>
+    <p>Dude, bro. Let me tell you what</p>
    </ChakraProvider>
   );
 }
